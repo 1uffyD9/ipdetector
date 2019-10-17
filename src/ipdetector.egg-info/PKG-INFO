@@ -34,8 +34,8 @@ Description: # ipdetector
         >>
         ```
 Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3.0
-Classifier: Programming Language :: Python :: 3.7.5
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
 Classifier: Lincense :: :: 
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown

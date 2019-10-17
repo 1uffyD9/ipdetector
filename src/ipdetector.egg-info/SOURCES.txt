@@ -5,6 +5,7 @@ Pipfile.lock
 README.md
 setup.py
 dist/ipdetector-0.0.1-py2-none-any.whl
+dist/ipdetector-0.0.1.tar.gz
 src/ipdetector.py
 src/ipdetector.egg-info/PKG-INFO
 src/ipdetector.egg-info/SOURCES.txt
