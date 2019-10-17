@@ -10,7 +10,8 @@ setup(
     py_modules=["ipdetector"],
     package_dir={'':'src'},
     classifiers=[
-        "Programming Language :: Python :: 3.x.x",
+        "Programming Language :: Python :: 3.0",
+        "Programming Language :: Python :: 3.7.5",
         "Lincense :: :: ",
         "Operating System :: OS Independent",
     ],
