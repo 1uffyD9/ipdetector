@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/ipdetector.py
+src/ipdetector.egg-info/PKG-INFO
+src/ipdetector.egg-info/SOURCES.txt
+src/ipdetector.egg-info/dependency_links.txt
+src/ipdetector.egg-info/top_level.txt
