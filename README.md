@@ -2,10 +2,11 @@
 This is a Simple project to categorize and validate private and public IP/IP ranges.
 
 Category ID
-0 : Private IP
-1 : Public IP
-2 : Private IP range
-3 : Public IP range
+
+* 0 : Private IP
+* 1 : Public IP
+* 2 : Private IP range
+* 3 : Public IP range
 
 Output : [<categoryID>, <data>]
 

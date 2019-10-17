@@ -10,10 +10,11 @@ Description: # ipdetector
         This is a Simple project to categorize and validate private and public IP/IP ranges.
         
         Category ID
-        0 : Private IP
-        1 : Public IP
-        2 : Private IP range
-        3 : Public IP range
+        
+        * 0 : Private IP
+        * 1 : Public IP
+        * 2 : Private IP range
+        * 3 : Public IP range
         
         Output : [<categoryID>, <data>]
         
@@ -33,6 +34,7 @@ Description: # ipdetector
         [2, '192.168.1.0/24']
         >>
         ```
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.7
