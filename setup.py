@@ -5,7 +5,7 @@ with open("README.md","r") as f:
 
 setup(
     name='ipdetector',
-    version='0.0.1',
+    version='0.1',
     description='Detect whether the given input is Public IP/ Private IP/ Public IP range or Private IP range',
     py_modules=["ipdetector"],
     package_dir={'':'src'},

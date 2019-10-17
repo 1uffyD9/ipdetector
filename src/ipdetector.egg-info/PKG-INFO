@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ipdetector
-Version: 0.0.1
+Version: 0.1
 Summary: Detect whether the given input is Public IP/ Private IP/ Public IP range or Private IP range
 Home-page: https://github.com/1uffyD9/ipdetector
 Author: 1uffyD9
